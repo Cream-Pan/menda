@@ -1,0 +1,2 @@
+*.asset filter=lfs diff=lfs merge=lfs -text
+Build[[:space:]]for[[:space:]]Netlify/Build/* filter=lfs diff=lfs merge=lfs -text
